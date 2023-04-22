@@ -1,4 +1,4 @@
-# EE399
+# EE399HW2
 
 ## Akash Shetty, HW2
 This is the second homework of Intro to Machine Learning in this we go over Correlation Matrices and utilizing Singular Value Decomposition
